@@ -1,10 +1,11 @@
-# LeetCode Solutions
+# LeetCode
 
-Welcome to my LeetCode repository! Here, I share my solutions to the problems I have solved on LeetCode. Each folder is organized with a specific pattern to make it easy to navigate and find solutions.
+This repository contains my solutions to LeetCode problems.
 
-## Solutions
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
-Each folder contains:
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
-- `README.md`: A brief description of the problem and the approach used to solve it.
-- `solution.<language_extension>`: The solution code in the respective programming language.
+ Happy coding! 🚀
