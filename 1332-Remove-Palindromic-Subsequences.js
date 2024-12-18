@@ -1,0 +1,1 @@
+const removePalindromeSub = (s) => s.split('').reverse().join('') === s ? 1 :2
